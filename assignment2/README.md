@@ -1,27 +1,24 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# :briefcase: Portfolio  
+Week 2 assignment was making the professional portfolio responsive using HTML/CSS and a Bootstrap template. Single page with sections for about me, portfolio, and  contact. The second part of the assignment was to make the same portfolio using .
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+# :computer: Check Bootstrap Page
+1. Boostrap Version : [Boostrap Portfolio]
 
-## Getting Started
+# :satellite: Technologies Used
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* Fork the repo
+Boostrap Portfolio
+  * HTML & CSS
+  * Bootstrap
 
-## Bugs and Issues
+# Screenshots
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
+## Bootstrap Portfolio
 
-## Creator
+### About Me Page
+![About Me](/screenshots/bs-about.png)
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+### Portfolio Page
+![Portfolio](/screenshots/bs-portfolio.png)
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+#### Contact Page
+![Contact](/screenshots/bs-connect.png)

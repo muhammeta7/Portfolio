@@ -36,4 +36,4 @@ Week 2 assignment was making the professional portfolio responsive using HTML/CS
 ![Portfolio](/screenshots/bs-portfolio.png)
 
 #### Contact Page
-![Contact](/screenshots/bs-contact.png)
+![Contact](/screenshots/bs-connect.png)
