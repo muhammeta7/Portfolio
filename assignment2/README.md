@@ -23,4 +23,4 @@ Boostrap Portfolio
 #### Contact Page
 ![Contact](/screenshots/bs-connect.png)
 
-**Muhammet Aydin**  - [Muhammet Aydin](https://github.com/muhammeta7/Portfolio)
+**Muhammet Aydin**  - [Muhammet Aydin](https://github.com/muhammeta7)
