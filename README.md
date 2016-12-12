@@ -3,7 +3,7 @@ Week 2 assignment was making the professional portfolio responsive using HTML/CS
 
 # :computer: Check the pages out
 1. Regular Link: [Basic Portfolio](https://portfolio1-ma.herokuapp.com/)
-2. Boostrap Version : [Boostrap Portfolio]
+2. Boostrap Version : [Boostrap Portfolio](https://ma-bootstrap.herokuapp.com/)
 
 # :satellite: Technologies Used
 1. Regular Portfolio
@@ -37,3 +37,5 @@ Week 2 assignment was making the professional portfolio responsive using HTML/CS
 
 #### Contact Page
 ![Contact](/screenshots/bs-connect.png)
+
+**Muhammet Aydin**  - [Muhammet Aydin](https://github.com/muhammeta7/Assignment2)
