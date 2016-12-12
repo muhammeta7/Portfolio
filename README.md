@@ -38,4 +38,4 @@ Week 2 assignment was making the professional portfolio responsive using HTML/CS
 #### Contact Page
 ![Contact](/screenshots/bs-connect.png)
 
-**Muhammet Aydin**  - [Muhammet Aydin](https://github.com/muhammeta7/Assignment2)
+**Muhammet Aydin**  - [Muhammet Aydin](https://github.com/muhammeta7)
